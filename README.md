@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sudipta Sundar Pal</h1>
 <h3 align="center">Aspiring Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine learning and Frontend**
+🌱 I’m exploring new possibilities:
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sudipta2307](https://github.com/Sudipta2307)
+**Working with data to find meaningful insights.
+Building smart systems with machine learning.
+Creating user-friendly websites with frontend development.**
+Excited to learn, grow, and make a difference! 🚀
 
-- 📫 How to reach me **sudiptasundarpal@gmail.com**
+👨‍💻 All of my projects are available at [https://github.com/Sudipta2307](https://github.com/Sudipta2307)
+
+📫 How to reach me **sudiptasundarpal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
